@@ -41,7 +41,7 @@ _Pode ser realizado a chamada por REST, Java ou Fluxo de BPM._
 _Exemplo em Java (Consumindo a regra via código)_
 https://github.com/darioajr/resgate-dmn
 <!-- blank line -->
-![REST](https://github.com/darioajr/resgate-dmn/raw/master/screenshot/vscode.jpg "REST")
+![REST](https://github.com/darioajr/resgate-dmn/raw/master/screenshot/vscode.png "REST")
 
 <!-- blank line -->
 <!-- blank line -->
