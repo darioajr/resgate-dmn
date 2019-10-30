@@ -23,17 +23,17 @@ _Pode ser criada por XML, Excel (Equipe de Negócio) ou Java e importada para o 
 
 **Exemplo em Excel:**
 <!-- blank line -->
-![Excel](http://git.senior.com.br/software-sob-medida/ssm-arquitetura/raw/master/poc/resgate-dmn/screenshot/excel.png "Excel")
+![Excel](https://github.com/darioajr/resgate-dmn/raw/master/screenshot/excel.png "Excel")
 
 
 #### Passo 2 - Testar as decisões via portal do dmn
 <!-- blank line -->
-![Simulação](https://github.com/darioajr/resgate-dmn/screenshot/simulate.png "Simulação")
+![Simulação](https://github.com/darioajr/resgate-dmn/raw/master/screenshot/simulate.png "Simulação")
 
 #### Passo 3 - Utilização (Chamar a decisão passando os parâmetros de entrada)
 _Pode ser realizado a chamada por REST, Java ou Fluxo de BPM._
 <!-- blank line -->
-![REST](https://github.com/darioajr/resgate-dmn/screenshot/response.png "REST")
+![REST](https://github.com/darioajr/resgate-dmn/raw/master/screenshot/response.png "REST")
 
 
 **Exemplo REST:**
@@ -41,7 +41,7 @@ _Pode ser realizado a chamada por REST, Java ou Fluxo de BPM._
 _Exemplo em Java (Consumindo a regra via código)_
 https://github.com/darioajr/resgate-dmn
 <!-- blank line -->
-![REST](https://github.com/darioajr/resgate-dmn/screenshot/vscode.jpg "REST")
+![REST](https://github.com/darioajr/resgate-dmn/raw/master/screenshot/vscode.jpg "REST")
 
 <!-- blank line -->
 <!-- blank line -->
